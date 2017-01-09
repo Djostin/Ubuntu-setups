@@ -6,5 +6,7 @@ def install():
 	print("git init")
 	print("git config --global user.mail 'git-email'")
 	print("git config --global user.name 'Real-Name'")
+	print("sudo apt-get install python-virtualenv")
+	
 
 install()
